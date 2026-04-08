@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-EAGLEVISION is a computer vision system designed to monitor heavy equipment (e.g., excavators, trucks) and analyze their operational activity in real-time.
+this project is a computer vision system designed to monitor heavy equipment (e.g., excavators, trucks) and analyze their operational activity in real-time.
 
 The system performs:
 
